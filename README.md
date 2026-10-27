@@ -2,7 +2,7 @@
 
 **GhostOS** est un faux système d'exploitation web inspiré des ordinateurs des années 90. Explore une interface rétro-futuriste, utilise un terminal interactif et découvre les secrets d'un système mystérieux.
 
-🌐 **Essayer GhostOS :** [Lancer le système](https://nitrox-creator.github.io/GhostOS/)
+🌐 **Essayer GhostOS :** [Lancer le système](https://nitrox-creator.github.io/GhostOSMistery/)
 
 ## ✨ Fonctionnalités
 
