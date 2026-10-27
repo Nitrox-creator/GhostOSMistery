@@ -18,7 +18,7 @@
 
 Aucune installation n'est nécessaire.
 
-1. Ouvre [GhostOS](https://nitrox-creator.github.io/GhostOS/).
+1. Ouvre [GhostOS](https://nitrox-creator.github.io/GhostOSMistery/).
 2. Explore le bureau virtuel.
 3. Lance le terminal et teste les commandes disponibles.
 4. Examine les fichiers et les journaux.
